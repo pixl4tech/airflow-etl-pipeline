@@ -3,6 +3,7 @@
 
 # IntelliJ project files
 .idea
+*.obsidian*
 *.iml
 *.DS_Store*
 out
